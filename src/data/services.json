@@ -1,0 +1,138 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "icon": "/services/icon-1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet, quibusdam sit inventore rerum adipisci voluptatem vitae tenetur architecto itaque ut deleniti ex assumenda veniam sint facilis!"
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Store",
+      "icon": "/services/icon-2.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet, quibusdam sit inventore rerum adipisci voluptatem vitae tenetur architecto itaque ut deleniti ex assumenda veniam sint facilis!"
+    },
+    {
+      "id": 3,
+      "title": "CMS Development",
+      "icon": "/services/icon-3.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet, quibusdam sit inventore rerum adipisci voluptatem vitae tenetur architecto itaque ut deleniti ex assumenda veniam sint facilis!"
+    },
+    {
+      "id": 4,
+      "title": "Design to Website",
+      "icon": "/services/icon-4.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet, quibusdam sit inventore rerum adipisci voluptatem vitae tenetur architecto itaque ut deleniti ex assumenda veniam sint facilis!"
+    },
+    {
+      "id": 5,
+      "title": "Website Redesign",
+      "icon": "/services/icon-5.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet, quibusdam sit inventore rerum adipisci voluptatem vitae tenetur architecto itaque ut deleniti ex assumenda veniam sint facilis!"
+    },
+    {
+      "id": 6,
+      "title": "Website Maintenance",
+      "icon": "/services/icon-6.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet, quibusdam sit inventore rerum adipisci voluptatem vitae tenetur architecto itaque ut deleniti ex assumenda veniam sint facilis!"
+    }
+  ],
+  "process": [
+    {
+      "title": "Discovery & Planning",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti expedita quam dolore recus maxime ab."
+    },
+    {
+      "title": "Design & Mockups",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti expedita quam dolore recus maxime ab."
+    },
+    {
+      "title": "Development",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti expedita quam dolore recus maxime ab."
+    },
+    {
+      "title": "Testing & Revisions",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti expedita quam dolore recus maxime ab."
+    },
+    {
+      "title": "Launch & Support",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti expedita quam dolore recus maxime ab."
+    },
+    {
+      "title": "Payment & Security",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti expedita quam dolore recus maxime ab."
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What makes your web development approach different?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 2,
+      "question": "What types of websites do you build?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 3,
+      "question": "What tools do you use to build websites?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 4,
+      "question": "How much do your website services cost?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 5,
+      "question": "How long does it take to build a website?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 6,
+      "question": "What information do you need from me to start a project?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 7,
+      "question": "Will my website work well on mobile phones?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 8,
+      "question": "Will my website be fast and secure?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 9,
+      "question": "Can you help with website hosting and domain registration?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 10,
+      "question": "Can you redesign my existing website without losing content?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 11,
+      "question": "Can you turn my Figma/PSD design into a website?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 12,
+      "question": "Can you build content management systems (CMS)?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 13,
+      "question": "Do you provide website maintenance and ongoing support?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    },
+    {
+      "id": 14,
+      "question": "Do you work with clients worldwide?",
+      "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, blanditiis cum laborum enim, eveniet tenetur nihil excepturi voluptas doloribus quis aspernatur ea incidunt omnis dicta molestias sit, aliquid sed earum commodi dolor rerum explicabo similique corrupti. Cupiditate sunt modi repudiandae."
+    }
+  ]
+}
